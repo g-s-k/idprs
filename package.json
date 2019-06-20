@@ -1,0 +1,11 @@
+{
+  "name": "idprs",
+  "version": "0.0.0",
+  "description": "identifier parser",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "author": "George Kaplan",
+  "license": "UNLICENSED"
+}
